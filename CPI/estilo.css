@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pacifico&display=swap');
+*{margin: 0;}
+
+body{
+    background-color: whitesmoke;
+}
+
+header{
+    width: 100%;
+    height: 380px;
+}
+
+img{
+    width: 100%;
+    height: 380px;
+}
+
+nav{
+    font:1em 'Montserrat','Times New Roman';
+    width: 100%;
+    text-align: center;
+    background-color: #303F9F;
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    color: #C5CAE9;
+    margin-right: 20px;
+}
+
+article{
+    width: 100%;
+    background-color: whitesmoke;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1,h2{
+    color:#303F9F;
+    background-color: whitesmoke;
+    font:3em 'Montserrat','Times New Roman';
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+ul{
+    color:#303F9F;
+    background-color: whitesmoke;
+    font:1em 'Montserrat','Times New Roman';
+    margin-bottom: 20px
+}
+
+p{
+    font: 1rem 'Montserrat','Times New Roman';
+    text-align:center;
+    color:#303F9F;
+    text-indent: 20px;
+    background-color: whitesmoke;
+}
+
+section{
+    
+}
+
+#pag-pastorais{
+    background-color: whitesmoke;
+}
+
+.img-infos{
+    width: 150px;
+    height: 150px;
+} 
+
+.img-doações{
+    width: 150px;
+    height: 150px
+}
+
+#footer{
+    text-align: center;
+    background-color: #8289b8;
+}
+
+#logoinsta{
+    width: 8rem;
+    height: 4rem;
+}
